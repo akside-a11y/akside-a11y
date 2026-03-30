@@ -21,10 +21,10 @@
 | Project | Stack | Description |
 |---|---|---|
 | [PamojaHR](#) | Django · PostgreSQL | HR & Payroll system for modern teams |
-| [Léron](#) | Django · Flutter · PostgreSQL | Ride-hailing platform with multi-role auth & 3 mobile apps |
-| [SiteSync](#) | Django · Flutter · Azure | Construction management & communication platform |
-| [Nazasu Tours](#) | Laravel · MySQL · JS | Full-stack travel booking platform |
-| [KulKultur](#) | HTML · CSS · JS · Google AI Studio | Youth engagement app — KTH OpenLab project |
+| [Léron](https://leronrides.com/) | Django · Flutter · PostgreSQL | Ride-hailing platform with multi-role auth & 3 mobile apps |
+| [SiteSync](https://site-sync-iterations.onrender.com/) | Django · Flutter · Azure | Construction management & communication platform |
+| [Nazasu Tours](https://nazasutours.com/) | Laravel · MySQL · JS | Full-stack travel booking platform |
+| [KulKultur](https://openlabsthlm.se/student-projects/kulkultur/) | HTML · CSS · JS · Google AI Studio | Youth engagement app — KTH OpenLab project |
 
 ---
 
