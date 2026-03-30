@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Asher 👋
 
-<!--
-**akside-a11y/akside-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on **PamojaHR** — an HR & Payroll system built for modern teams
+- 🌱 I'm currently learning **Cybersecurity** and **System Design & Architecture**
+- 👯 I'm looking to collaborate on **open-source projects in fintech, productivity, or social impact**
+- 💬 Ask me about **Django · Flutter · Laravel · PostgreSQL · building full-stack products from scratch**
+- 🎓 Previously on a Master's Exchange at **KTH Royal Institute of Technology**, Stockholm 🇸🇪
+- 📫 How to reach me: **asherkutswa@gmail.com** · [LinkedIn](https://linkedin.com/in/asher-njoroge-b3b4292a7)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I play piano, produce music, and once helped redesign a youth engagement platform for Stockholm teenagers — all while studying abroad 🎹🌍
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=django,flutter,laravel,postgres,mysql,html,css,js,php,python,git,github,azure,figma)](https://skillicons.dev)
+
+---
+
+### 🚀 Notable Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [PamojaHR](#) | Django · PostgreSQL | HR & Payroll system for modern teams |
+| [Léron](#) | Django · Flutter · PostgreSQL | Ride-hailing platform with multi-role auth & 3 mobile apps |
+| [SiteSync](#) | Django · Flutter · Azure | Construction management & communication platform |
+| [Nazasu Tours](#) | Laravel · MySQL · JS | Full-stack travel booking platform |
+| [KulKultur](#) | HTML · CSS · JS · Google AI Studio | Youth engagement app — KTH OpenLab project |
+
+---
+
+### 🏅 Certifications
+- ☁️ AWS Academy — Cloud Foundations & Data Engineering  
+- 🔐 IBM Cybersecurity Fundamentals  
+- 🤖 IBM AI Fundamentals  
+- 🌐 Cisco CCNA: Introduction to Networks  
+- 🛡️ CIPIT Data Protection
