@@ -7,7 +7,7 @@
 - 🎓 Previously on a Master's Exchange at **KTH Royal Institute of Technology**, Stockholm 🇸🇪
 - 📫 How to reach me: **asherkutswa@gmail.com** · [LinkedIn](https://linkedin.com/in/asher-njoroge-b3b4292a7)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I play piano, produce music, and once helped redesign a youth engagement platform for Stockholm teenagers — all while studying abroad 🎹🌍
+- ⚡ Fun fact: I play piano, produce music, and once helped redesign a youth engagement platform for Stockholm teenagers 🎹🌍
 
 ---
 
